@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/new/prefix">
+        <file>res/bg_login.png</file>
+        <file>res/icon_password.png</file>
+        <file>res/icon_user.png</file>
+        <file>res/icon_wenhao.png</file>
+        <file>res/icon_3bangz.png</file>
+        <file>res/icon_delete.png</file>
+        <file>res/icon_delete_hover.png</file>
+        <file>res/icon_delete_press.png</file>
+        <file>res/icon_download.png</file>
+        <file>res/icon_pen.png</file>
+        <file>res/icon_pen_hover.png</file>
+        <file>res/icon_pen_press.png</file>
+        <file>res/icon_photo.jpg</file>
+        <file>res/icon_plus.png</file>
+        <file>res/icon_plus_hover.png</file>
+        <file>res/icon_plus_press.png</file>
+        <file>res/icon_RMB.png</file>
+        <file>res/icon_search.png</file>
+        <file>res/icon_write.png</file>
+        <file>res/icon_x.png</file>
+        <file>res/icon_x_hover.png</file>
+        <file>res/icon_x_press.png</file>
+        <file>res/tabicon_earth_1.png</file>
+        <file>res/tabicon_earth_2.png</file>
+        <file>res/tabicon_earth_3.png</file>
+        <file>res/tabicon_manage_1.png</file>
+        <file>res/tabicon_manage_2.png</file>
+        <file>res/tabicon_manage_3.png</file>
+        <file>res/tabicon_set_1.png</file>
+        <file>res/tabicon_set_2.png</file>
+        <file>res/tabicon_tab_3.png</file>
+        <file>res/down4.png</file>
+        <file>res/up4.png</file>
+        <file>res/icon_send.png</file>
+    </qresource>
+</RCC>
